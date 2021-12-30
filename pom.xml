@@ -59,8 +59,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- compile dependencies -->
-
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
@@ -82,7 +80,6 @@
 			<version>${spring.version}</version>
 		</dependency>
 		
-		<!-- provided dependencies -->
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
