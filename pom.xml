@@ -94,14 +94,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>flipkart-release</name>
-	      <url>http://13.127.243.22:8081/repository/flipkart-release/</url>
+	      <name>facebook-relase</name>
+	      <url>http://15.206.69.86:8081/repository/facebook-relase/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>flipkart-snapshot</name>
-	      <url>http://13.127.243.22:8081/repository/flipkart-snapshot/</url>
+	      <name>facebook-snapshot</name>
+	      <url>http://15.206.69.86:8081/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
